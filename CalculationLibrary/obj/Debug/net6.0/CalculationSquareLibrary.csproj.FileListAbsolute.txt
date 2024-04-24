@@ -1,0 +1,12 @@
+C:\Projects\Consolka\CalculationLibrary\bin\Debug\net6.0\CalculationSquareLibrary.deps.json
+C:\Projects\Consolka\CalculationLibrary\bin\Debug\net6.0\CalculationSquareLibrary.dll
+C:\Projects\Consolka\CalculationLibrary\bin\Debug\net6.0\CalculationSquareLibrary.pdb
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.csproj.AssemblyReference.cache
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.AssemblyInfoInputs.cache
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.AssemblyInfo.cs
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.dll
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\refint\CalculationSquareLibrary.dll
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\CalculationSquareLibrary.pdb
+C:\Projects\Consolka\CalculationLibrary\obj\Debug\net6.0\ref\CalculationSquareLibrary.dll

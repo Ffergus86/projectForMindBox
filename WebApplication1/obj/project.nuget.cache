@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yzEyfLpP1TugeElJue1oA39BkI5bGaCS1ydklwKzdpYgngW9X0MKwVjYdcYcDRPBW0G4iwLUf8Hl/lntYXMrA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Consolka\\WebApplication1\\WebApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fergu\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
